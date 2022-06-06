@@ -15,13 +15,13 @@ FastPlace - Works but detectable
 
 Reach - Combo mode, Combo chance, Hitbox chance option, and randomization
 
-RightClicker - Blocks Only option, randomized, customizable, and bypasses more keystrokes mods.
+RightClicker - Blocks Only option, randomized, customizable, and bypasses more keystrokes mods
 
 Sprint - Sprints Legit, Keep Sprint option
 
-Velocity - Vertical and Horizontal Chance option, Tick option seperate for Horizontal and Vertical, FOV, and Modes.
+Velocity - Vertical and Horizontal Chance option, Tick option seperate for Horizontal and Vertical, FOV, and Modes
 
-WTap - Packet mode option, range for activation, Time between stopping and starting sprint options. 
+WTap - Packet mode option, range for activation, Time between stopping and starting sprint options
 
 ## Usage
 
