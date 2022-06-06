@@ -51,13 +51,17 @@ To use commands simply type in chat ".*insert command here*"
 ## FAQ
 
 Q: Does it actually enhance your FPS?
+
 A: No its just what I call it so it doesn't look as sus lmao.
 
 Q: Will this bypass (*insert server name*)?
+
 A: Depending on what settings you are using you will bypass, but some servers have very good anticheats and may detect you.
 
 Q: Can this be found inside a screenshare?
+
 A: Yes, its not meant to bypass any screenshare, just the serversided anticheat.
 
 Q: Can I use the code of this?
+
 A: Anyone can, as I am not gonna obfuscate an open project.
