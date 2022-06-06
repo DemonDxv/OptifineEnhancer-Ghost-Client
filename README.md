@@ -5,7 +5,7 @@ This mod is an edit of sim0n's ghost client base Cobalt (https://github.com/sim0
 
 I made this mod for fun, and for cheating on servers when bored.
 
-## Detections/Advantages
+## Changes/Advantages
 
 AimAssist - Smoothing option, aims vertical and horizontal, but might get detected by some anticheats
 
