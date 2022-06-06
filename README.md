@@ -5,9 +5,6 @@ This mod is an edit of sim0n's ghost client base Cobalt (https://github.com/sim0
 
 I made this mod for fun, and for cheating on servers when bored.
 
-Planning on posting an update 6/7/22
-
-
 ## Detections/Advantages
 
 AimAssist - Smoothing option, aims vertical and horizontal, but might get detected by some anticheats
@@ -49,3 +46,18 @@ To use commands simply type in chat ".*insert command here*"
 .velocity
 
 .wtap
+
+
+## FAQ
+
+Q: Does it actually enhance your FPS?
+A: No its just what I call it so it doesn't look as sus lmao.
+
+Q: Will this bypass (*insert server name*)?
+A: Depending on what settings you are using you will bypass, but some servers have very good anticheats and may detect you.
+
+Q: Can this be found inside a screenshare?
+A: Yes, its not meant to bypass any screenshare, just the serversided anticheat.
+
+Q: Can I use the code of this?
+A: Anyone can, as I am not gonna obfuscate an open project.
