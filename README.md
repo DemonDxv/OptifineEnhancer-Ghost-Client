@@ -2,6 +2,7 @@
 This Mod Requires 1.8.9 Forge! (11.15.1.2318)
 
 This mod is an edit of sim0n's ghost client base Cobalt (https://github.com/sim0n/Cobalt-Client)
+
 I made this mod for fun, and for cheating on servers when bored so enjoy!
 
 
